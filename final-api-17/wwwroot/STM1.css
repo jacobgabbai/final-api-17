@@ -1,0 +1,32 @@
+﻿body {
+    background-color: azure;
+}
+
+.h1 {
+    margin-top: 90px;
+    margin-left: 42%;
+    font-size: 40px;
+}
+
+.h2 {
+    margin-left: 42%;
+    font-size: 30px;
+}
+
+.k {
+    height: 100px;
+    width: 300px;
+    margin: 10px;
+    background-color: azure;
+    border: dotted;
+    margin-left: 40%;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%)
+}
+
+    .k#a1 {
+        margin-top: 100px
+    }

@@ -1,0 +1,77 @@
+﻿body {
+    background-color: azure;
+}
+
+.h1 {
+    margin-top: 70px;
+    margin-left: 40%;
+    font-size: 40px;
+}
+
+.h2 {
+    margin-top: 0px;
+    margin-left: 5%;
+    font-size: 35px;
+}
+
+.in1 {
+    margin-left: 5%;
+}
+
+.btn {
+    margin-left: 5%;
+    background-color:azure;
+}
+
+.b {
+    margin-top: -150px;
+    /* border: dotted;*/
+    width: 500px;
+    margin-left: 25%;
+    height: 700px;
+    position: relative;
+}
+
+.a {
+    /*height: 120px;*/
+    /*width: 300px;*/
+    /*background-color: azure;*/
+    /*    border:dotted;
+*/ /*margin: 10px;
+    margin-left: 40%;*/
+}
+
+    .a#divs {
+        margin-top: -50px;
+        /* border: dotted;*/
+        margin: 30px;
+        height: 150px;
+        width: 400px;
+    }
+
+    .a#divs1 {
+        height: 80px;
+        width: 400px;
+        /* border: dotted;*/
+        margin-left: 20%;
+    }
+
+    .a#divs2 {
+        /*        margin-top: -400px;
+*/ margin: 30px;
+        width: 300px;
+        height: 150px;
+        /* border: dotted;*/
+        margin-left: 20%;
+        /*        border: dotted;
+*/
+    }
+
+    .a#divs5 {
+        /*    border:dotted;
+*/ width: 300px;
+        height: 90px;
+        margin: 30px;
+        /* border: dotted;*/
+        margin-left: 20%;
+    }
